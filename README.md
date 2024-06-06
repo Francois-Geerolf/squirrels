@@ -6,7 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of squirrels is to have fun with squirrels
+The goal of squirrels is to have fun with squirrels. This package was
+created in the context of level 2 learning.
 
 ## Installation
 
